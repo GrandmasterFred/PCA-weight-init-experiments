@@ -1,0 +1,1 @@
+# this file is for the training stuff for the neural network 
